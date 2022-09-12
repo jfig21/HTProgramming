@@ -15,3 +15,10 @@ The activities are directly related to the introduction programming learning, in
 identifiers and error identification. These types of activities are MCQ (Multiple Choice Question). It also includes Parson problems, which consist of problems that
 include disordered programming instructions in which the student must put in the correct order in order to form a program with a goal.
 
+The project is under construction...
+For help building the application, please contact jfig@ipg.pt
+Requirements:
+- gcc compiler
+- Database with student data by academic year
+- set of exercises, defined by the administrator/teacher, to be used in the application: exercises like MQC, Parson Problems, Coding.
+
