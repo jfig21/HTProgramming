@@ -17,6 +17,7 @@ include disordered programming instructions in which the student must put in the
 
 The project is under construction...
 For help building the application, please contact jfig@ipg.pt
+
 Requirements:
 - gcc compiler
 - Database with student data by academic year
