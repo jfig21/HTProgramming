@@ -14,7 +14,7 @@ import javax.swing.filechooser.FileSystemView;
 public interface DadosPeduca {
 //    Acesso remoto Amen.pt
     String [] tHost = new String[]{
-                "lhcp3092.webapps.net"
+                "xxx.xxx.net"
         };
     String defaultBD = "";
     String user = "";
